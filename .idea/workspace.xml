@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf3af829-4dbd-410a-a77c-bf191bbc7822" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="290VMajQBd5sxGZaLhfZWcruROJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf3af829-4dbd-410a-a77c-bf191bbc7822" name="Default Changelist" comment="" />
+      <created>1652249942641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652249942641</updated>
+      <workItem from="1652249944467" duration="642000" />
+      <workItem from="1652250608668" duration="1048000" />
+      <workItem from="1652251691361" duration="1789000" />
+      <workItem from="1652253688839" duration="1793000" />
+      <workItem from="1652256065942" duration="4000" />
+      <workItem from="1652335116219" duration="6000" />
+      <workItem from="1652335347281" duration="1772000" />
+      <workItem from="1652337147730" duration="1855000" />
+      <workItem from="1652339034126" duration="600000" />
+      <workItem from="1652354901396" duration="72000" />
+      <workItem from="1652355008650" duration="19000" />
+      <workItem from="1652423955546" duration="493000" />
+      <workItem from="1652424767741" duration="5000" />
+      <workItem from="1654240463015" duration="221000" />
+      <workItem from="1654756103407" duration="1799000" />
+      <workItem from="1655097712404" duration="83000" />
+      <workItem from="1655275961311" duration="2000" />
+      <workItem from="1655702341652" duration="71000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
